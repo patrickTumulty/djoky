@@ -1,0 +1,13 @@
+# ... = home directory 
+
+# Downloads Folder 
+.../Downloads -> .txt  -> .../Downloads/MiscText
+.../Downloads -> .pdf  -> .../Downloads/MiscPdf
+.../Downloads -> .dmg  -> .../Downloads/DiscImage
+.../Downloads -> .mp4  -> .../Downloads/MiscVideo
+.../Downloads -> .mov  -> .../Downloads/MiscVideo
+
+
+
+
+
