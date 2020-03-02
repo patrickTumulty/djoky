@@ -1,4 +1,3 @@
-# ... = home directory 
 
 # Downloads Folder 
 .../Downloads -> .txt  -> .../Downloads/MiscText
@@ -6,8 +5,16 @@
 .../Downloads -> .dmg  -> .../Downloads/DiscImage
 .../Downloads -> .mp4  -> .../Downloads/MiscVideo
 .../Downloads -> .mov  -> .../Downloads/MiscVideo
+.../Downloads -> .dmg  -> .../.Trash
+.../Downloads -> .jpg  -> .../Pictures/MiscPics
+.../Downloads -> .png  -> .../Pictures/MiscPics
+.../Downloads -> .zip  -> .../.Trash
+.../Downloads -> .wav  -> .../Music/MiscAudio
+.../Downloads -> .mp3  -> .../Music/MiscAudio
+.../Downloads -> .aiff -> .../Music/MiscAudio
 
-
-
-
-
+# Desktop
+.../Desktop -> .pdf   -> .../Desktop/PDFs
+.../Desktop -> .pages -> .../Desktop/PagesDocs
+.../Desktop -> .png   -> .../Pictures/MiscPics
+.../Desktop -> .jpg   -> .../Pictures/MiscPics 
